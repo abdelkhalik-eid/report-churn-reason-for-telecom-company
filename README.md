@@ -60,7 +60,9 @@ Breakdown of 1,796 churn cases:
 
 ## 📂 File Info
 
-- **Dashboard Type**: Power BI-style report
+- **Dashboard Type**: Power BI-st![contract](https://github.com/user-attachments/assets/abf64f1a-9886-4b03-900b-a5a668b5397a)
+![churn reson](https://github.com/user-attachments/assets/d83263b1-9145-498e-99dd-b7a27090a2b6)
+yle report
 - **Source Image**: `/mnt/data/8d4c1ebe-ec56-46c8-bea6-df395b440d1c.png`
 - **Generated**: October 20, 2025
 
